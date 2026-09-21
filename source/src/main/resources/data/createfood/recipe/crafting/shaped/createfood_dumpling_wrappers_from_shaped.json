@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "createfood"
+    }
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:water_bucket"
+    },
+    "2": {
+      "item": "farmersdelight:wheat_dough"
+    }
+  },
+  "pattern": [
+    "1",
+    "2"
+  ],
+  "result": {
+    "count": 2,
+    "id": "createfood:dumpling_wrappers"
+  }
+}

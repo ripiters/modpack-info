@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": {
+    "amendments:wall_copper_lantern": "amendments:wall_exposed_copper_lantern",
+    "amendments:wall_exposed_copper_lantern": "amendments:wall_weathered_copper_lantern",
+    "amendments:wall_weathered_copper_lantern": "amendments:wall_oxidized_copper_lantern"
+  }
+}

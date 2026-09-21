@@ -1,0 +1,31 @@
+[versions]
+mixinExtras = "0.5.4"
+create = "6.0.10-281"
+ponder = "1.0.87+mc1.21.1"
+flywheel = "1.0.6-44"
+registrate = "MC1.21-1.3.0+67"
+
+# Modrinth
+amendments = "1.21-2.1.10-neoforge"
+moonlight = "1.21.1-3.6.4-neoforge"
+vanilla_backport = "1.1.7.10-neoforge"
+copper_age_backport = "1.21.1-0.1.4-neoforge"
+platform = "1.3.3-neoforge"
+more_mob_variants = "V1.0.0"
+lithostitched = "1.8.0+beta6-neoforge-21.1"
+farmersdelight = "1.21.1-1.3.4"
+
+[libraries]
+mixinExtras         = { module = "io.github.llamalad7:mixinextras-neoforge", version.ref = "mixinExtras" }
+create              = { module = "com.simibubi.create:create-1.21.1", version.ref = "create" }
+ponder              = { module = "net.createmod.ponder:ponder-neoforge", version.ref = "ponder" }
+flywheel-api        = { module = "dev.engine-room.flywheel:flywheel-neoforge-api-1.21.1", version.ref = "flywheel" }
+registrate          = { module = "com.tterrag.registrate:Registrate", version.ref = "registrate" }
+amendments          = { module = "maven.modrinth:amendments", version.ref = "amendments" }
+moonlight           = { module = "maven.modrinth:moonlight", version.ref = "moonlight" }
+vanilla_backport    = { module = "maven.modrinth:vanillabackport", version.ref = "vanilla_backport" }
+copper_age_backport = { module = "maven.modrinth:backport-copper-age", version.ref = "copper_age_backport" }
+platform            = { module = "maven.modrinth:platform", version.ref = "platform" }
+more_mob_variants   = { module = "maven.modrinth:more-mob-variants-renewed", version.ref = "more_mob_variants" }
+lithostitched       = { module = "maven.modrinth:lithostitched", version.ref = "lithostitched" }
+farmersdelight      = { module = "maven.modrinth:farmers-delight", version.ref = "farmersdelight" }

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "create:copper_nugget"
+  ],
+  "remove": [
+    "minecraft:copper_nugget"
+  ]
+}

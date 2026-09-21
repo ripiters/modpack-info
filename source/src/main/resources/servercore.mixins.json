@@ -1,0 +1,27 @@
+{
+  "required": true,
+  "package": "dev.ripiters.servercore.mixin",
+  "plugin": "dev.ripiters.servercore.plugin.CopperLanternMixinPlugin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "BundleContentsMixin",
+    "StructureMixin",
+    "copperagebackport.CopperLanternFallingMixin",
+    "copperagebackport.WallLanternResourcesMixin",
+    "create.StationBlockEntityMixin",
+    "farmersdelight.CookingPotBucketFixMixin",
+    "mmv.MoreMobVariantsFixMixin"
+  ],
+  "client": [
+    "amendments.IThirdPersonSpecialItemRendererMixin",
+    "amendments.LanternRendererExtensionMixin",
+    "amendments.TorchRendererExtensionMixin",
+    "cheat.BlockRenderMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

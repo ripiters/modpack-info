@@ -1,0 +1,16 @@
+{
+  "block.createbigcannons.cannon_mount_extension": "Przedłużenie mocowania armoaty",
+  "block.createbigcannons.fixed_cannon_mount": "Stacjonarne mocowanie armoaty",
+
+  "createbigcannons.fixed_cannon_mount.angle_pitch": "Regulacja nachylenia (Pitch)",
+  "createbigcannons.fixed_cannon_mount.angle_yaw": "Regulacja obrotu (Yaw)",
+
+  "createbigcannons.ponder.cannon_mount/using_fixed_cannon_mounts.header": "Używanie stacjonarnych pocowań armaty",
+  "createbigcannons.ponder.cannon_mount/using_fixed_cannon_mounts.text_1": "Stacjonarne mocowania armaty mogą być używane do celowania armatami w ten sam punkt.",
+  "createbigcannons.ponder.cannon_mount/using_fixed_cannon_mounts.text_2": "Nie wymagają one zasilania kinetycznego i muszą być ustawiane ręcznie za pomocą bocznych interfejsów.",
+  "createbigcannons.ponder.cannon_mount/using_fixed_cannon_mounts.text_3": "Sterowanie stacjonarnym mocowaniem armaty jest podobne do zwykłego mocowania, z tymi samymi ściankami kontrolnymi.",
+  "createbigcannons.ponder.cannon_mount/using_fixed_cannon_mounts.text_4": "Montaż armaty",
+  "createbigcannons.ponder.cannon_mount/using_fixed_cannon_mounts.text_5": "Wystrzał z armaty",
+  "createbigcannons.ponder.cannon_mount/using_fixed_cannon_mounts.text_6": "Stacjonarne mocowanie armaty nie może zostać przedłużone.",
+  "createbigcannons.ponder.cannon_mount/using_fixed_cannon_mounts.text_7": "Użyj klucza, aby obrócić stacjonarną lawetę armatnią."
+}
